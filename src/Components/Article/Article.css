@@ -1,0 +1,22 @@
+.article__title {
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.article__text {
+    color: #ddd;    
+}
+.articleList__item {
+    width: 260px;
+    height: 270px;
+    list-style-type: none;
+    background-color: #202020;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}
+.articleList__item:hover {
+    border: 1px solid #fff;
+    box-shadow: inset 0px -1px 3px 0px rgba(255,255,255,0.75);
+}
